@@ -14,6 +14,7 @@ onready var sprite = $Sprite
 onready var animationPlayer = $AnimationPlayer
  
 var motion = Vector2()
+var contadordemonedas = 0
  
 func _physics_process(delta):
 	# apply gravity to the player

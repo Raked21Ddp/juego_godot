@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Digital-Introspection.ogg-77da8d360361e341f74289dc76c4bf86.oggstr"
+
+[deps]
+
+source_file="res://sonidos/Digital-Introspection.ogg"
+dest_files=[ "res://.import/Digital-Introspection.ogg-77da8d360361e341f74289dc76c4bf86.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
