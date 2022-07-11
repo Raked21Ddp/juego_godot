@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Bustling-Ancient-City.ogg-59b80a75664de50851d4b1383c4c2f30.oggstr"
+
+[deps]
+
+source_file="res://sonidos/Bustling-Ancient-City.ogg"
+dest_files=[ "res://.import/Bustling-Ancient-City.ogg-59b80a75664de50851d4b1383c4c2f30.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
